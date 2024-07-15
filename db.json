@@ -1,0 +1,236 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "firstName": "Alexei",
+      "lastName": "Volkov",
+      "email": "alexei.volkov@mail.ru",
+      "address": "ул. Пушкина 23, Москва, Россия",
+      "university": "Московский государственный университет"
+    },
+    {
+      "id": "2",
+      "firstName": "Ekaterina",
+      "lastName": "Smirnova",
+      "email": "ekaterina.smirnova@yandex.ru",
+      "address": "пр. Невский 78, Санкт-Петербург, Россия",
+      "university": "Санкт-Петербургский государственный университет"
+    },
+    {
+      "id": "3",
+      "firstName": "Firuz",
+      "lastName": "Rahimov",
+      "email": "firuz.rahimov@gmail.com",
+      "address": "кӯчаи Рӯдакӣ 45, Душанбе, Тоҷикистон",
+      "university": "Донишгоҳи миллии Тоҷикистон"
+    },
+    {
+      "id": "4",
+      "firstName": "Jamshed",
+      "lastName": "Nazarov",
+      "email": "jamshed.nazarov@mail.tj",
+      "address": "кӯчаи Айнӣ 12, Хуҷанд, Тоҷикистон",
+      "university": "Донишгоҳи давлатии Хуҷанд"
+    },
+    {
+      "id": "5",
+      "firstName": "Farzona",
+      "lastName": "Sharipova",
+      "email": "farzona.sharipova@mail.ru",
+      "address": "кӯчаи Исмоили Сомонӣ 34, Душанбе, Тоҷикистон",
+      "university": "Донишгоҳи технологии Тоҷикистон"
+    },
+    {
+      "id": "6",
+      "firstName": "Olga",
+      "lastName": "Ivanova",
+      "email": "olga.ivanova@gmail.com",
+      "address": "ул. Ленина 56, Новосибирск, Россия",
+      "university": "Новосибирский государственный университет"
+    },
+    {
+      "id": "7",
+      "firstName": "Dmitry",
+      "lastName": "Kuznetsov",
+      "email": "dmitry.kuznetsov@mail.ru",
+      "address": "ул. Гагарина 89, Казань, Россия",
+      "university": "Казанский федеральный университет"
+    },
+    {
+      "id": "8",
+      "firstName": "Gulnora",
+      "lastName": "Karimova",
+      "email": "gulnora.karimova@gmail.com",
+      "address": "кӯчаи Шевченко 67, Қӯрғонтеппа, Тоҷикистон",
+      "university": "Донишгоҳи давлатии Бохтар"
+    },
+    {
+      "id": "9",
+      "firstName": "Sergei",
+      "lastName": "Popov",
+      "email": "sergei.popov@yandex.ru",
+      "address": "пр. Мира 12, Екатеринбург, Россия",
+      "university": "Уральский федеральный университет"
+    },
+    {
+      "id": "10",
+      "firstName": "Mavjuda",
+      "lastName": "Azizova",
+      "email": "mavjuda.azizova@mail.tj",
+      "address": "кӯчаи Ломоносов 23, Хоруғ, Тоҷикистон",
+      "university": "Донишгоҳи давлатии Хоруғ"
+    },
+    {
+      "id": "11",
+      "firstName": "Anna",
+      "lastName": "Petrova",
+      "email": "anna.petrova@gmail.com",
+      "address": "ул. Кирова 45, Владивосток, Россия",
+      "university": "Дальневосточный федеральный университет"
+    },
+    {
+      "id": "12",
+      "firstName": "Natalia",
+      "lastName": "Sokolova",
+      "email": "natalia.sokolova@mail.ru",
+      "address": "пр. Ленина 34, Ростов-на-Дону, Россия",
+      "university": "Южный федеральный университет"
+    },
+    {
+      "id": "13",
+      "firstName": "Elena",
+      "lastName": "Mikhailova",
+      "email": "elena.mikhailova@yandex.ru",
+      "address": "ул. Советская 78, Нижний Новгород, Россия",
+      "university": "Нижегородский государственный университет"
+    },
+    {
+      "id": "14",
+      "firstName": "Ismoil",
+      "lastName": "Talabzoda",
+      "email": "ismoil.talabzoda@gmail.com",
+      "address": "кӯчаи Борбад 56, Кӯлоб, Тоҷикистон",
+      "university": "Донишгоҳи давлатии Кӯлоб"
+    },
+    {
+      "id": "16",
+      "firstName": "Aibek",
+      "lastName": "Nurpeisov",
+      "email": "aibek.nurpeisov@gmail.com",
+      "address": "Абай даңғылы 52, Алматы, Қазақстан",
+      "university": "Al-Farabi Kazakh National University"
+    },
+    {
+      "id": "17",
+      "firstName": "Sarah",
+      "lastName": "Thompson",
+      "email": "sarah.thompson@email.com",
+      "address": "123 Pine Street, Toronto, Canada",
+      "university": "University of Toronto"
+    },
+    {
+      "id": "18",
+      "firstName": "Dinara",
+      "lastName": "Satybaldiyeva",
+      "email": "dinara.satybaldiyeva@mail.kz",
+      "address": "Достық көшесі 89, Нұр-Сұлтан, Қазақстан",
+      "university": "Nazarbayev University"
+    },
+    {
+      "id": "19",
+      "firstName": "Michael",
+      "lastName": "Chen",
+      "email": "michael.chen@outlook.com",
+      "address": "456 Oak Avenue, San Francisco, USA",
+      "university": "Stanford University"
+    },
+    {
+      "id": "20",
+      "firstName": "Aruzhan",
+      "lastName": "Kenzhebaeva",
+      "email": "aruzhan.kenzhebaeva@yandex.kz",
+      "address": "Сейфуллин көшесі 34, Қарағанды, Қазақстан",
+      "university": "Karaganda State University"
+    },
+    {
+      "id": "21",
+      "firstName": "Emma",
+      "lastName": "Watson",
+      "email": "emma.watson@gmail.com",
+      "address": "10 Downing Street, London, UK",
+      "university": "University of Oxford"
+    },
+    {
+      "id": "22",
+      "firstName": "Yerbol",
+      "lastName": "Tasmagambetov",
+      "email": "yerbol.tasmagambetov@mail.ru",
+      "address": "Қабанбай батыр көшесі 11, Шымкент, Қазақстан",
+      "university": "South Kazakhstan State University"
+    },
+    {
+      "id": "23",
+      "firstName": "Olivia",
+      "lastName": "Martinez",
+      "email": "olivia.martinez@hotmail.com",
+      "address": "789 Maple Road, Sydney, Australia",
+      "university": "University of Sydney"
+    },
+    {
+      "id": "24",
+      "firstName": "Azamat",
+      "lastName": "Sarsenbayev",
+      "email": "azamat.sarsenbayev@gmail.com",
+      "address": "Әуезов көшесі 78, Өскемен, Қазақстан",
+      "university": "East Kazakhstan State University"
+    },
+    {
+      "id": "25",
+      "firstName": "Sophie",
+      "lastName": "Dubois",
+      "email": "sophie.dubois@orange.fr",
+      "address": "15 Rue de la Paix, Paris, France",
+      "university": "Sorbonne University"
+    },
+    {
+      "id": "26",
+      "firstName": "Madina",
+      "lastName": "Akhmetova",
+      "email": "madina.akhmetova@mail.kz",
+      "address": "Бөгенбай батыр көшесі 56, Ақтөбе, Қазақстан",
+      "university": "Aktobe Regional State University"
+    },
+    {
+      "id": "27",
+      "firstName": "Liam",
+      "lastName": "O'Connor",
+      "email": "liam.oconnor@gmail.com",
+      "address": "22 Grafton Street, Dublin, Ireland",
+      "university": "Trinity College Dublin"
+    },
+    {
+      "id": "28",
+      "firstName": "Aizhan",
+      "lastName": "Mukhamedzhanova",
+      "email": "aizhan.mukhamedzhanova@yandex.kz",
+      "address": "Төле би көшесі 91, Тараз, Қазақстан",
+      "university": "Taraz State University"
+    },
+    {
+      "id": "29",
+      "firstName": "Hiroshi",
+      "lastName": "Tanaka",
+      "email": "hiroshi.tanaka@yahoo.co.jp",
+      "address": "3-1-1 Kasumigaseki, Tokyo, Japan",
+      "university": "University of Tokyo"
+    },
+    {
+      "id": "30",
+      "firstName": "Gulnara",
+      "lastName": "Iskakova",
+      "email": "gulnara.iskakova@mail.ru",
+      "address": "Абылай хан даңғылы 23, Көкшетау, Қазақстан",
+      "university": "Kokshetau State University"
+    }
+  ]
+}
